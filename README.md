@@ -8,7 +8,7 @@ This project implements a sentiment analysis model from scratch on the IMDB data
 
 - Built on Google Colab using TensorFlow/Keras
 - End-to-end custom Transformer (tokenization, attention, classification)
-- Achieved ~84% validation accuracy
+- Achieved ~87% validation accuracy
 - Compared architectural variations during training
 
 ## 📒 Notebook
